@@ -15,7 +15,7 @@ y = pd.Series(np.random.randn(N))
 
 for fit_intercept in [True, False]:
     LR = LinearRegression(fit_intercept=fit_intercept)
-    LR.fit_vectorised(X, y) # here you can use fit_non_vectorised / fit_autograd methods
+    LR.fit_vectorised(X, y, N) # here you can use fit_non_vectorised / fit_autograd methods
     y_hat = LR.predict(X)
 
     print('RMSE: ', rmse(y_hat, y))
