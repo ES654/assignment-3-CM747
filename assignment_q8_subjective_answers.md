@@ -7,4 +7,4 @@
 > Write the answers for the subjective questions here
 
 
-![Time Taken be Gradient Descenet and Normal Equation](./result_figsandgifs/Times.gif)
+![Time Taken be Gradient Descenet and Normal Equation](./result_figsandgifs/Times.png)

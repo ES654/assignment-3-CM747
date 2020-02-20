@@ -7,8 +7,11 @@
 > Write the answers for the subjective questions here
 
 
-![3D Error Function](./result_figsandgifs/plot_contour.gif)
+![3D Error Function](./result_figsandgifs/plot_surface.gif)
 <br>
-![](./result_figsandgifs/plot_line.gif)
+
+![Line Plot](./result_figsandgifs/plot_line.gif)
+
 <br>
-![](./result_figsandgifs/plot_surface.gif)
+
+![Contour Plot](./result_figsandgifs/plot_contour.gif)
