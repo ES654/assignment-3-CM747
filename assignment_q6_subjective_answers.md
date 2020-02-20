@@ -11,7 +11,7 @@ For a certain N, as we increase the degree, the magnitude of theta increases. Th
 
 <br>
 
-For a certain degree, as we increase the number of samples(N), the magnitude of theta decreases. 
+For a certain degree, as we increase the number of samples(N), the magnitude of theta decreases.
 
 
 ![Thetas vs Degree](./result_figsandgifs/Theta_degree_N.png)
